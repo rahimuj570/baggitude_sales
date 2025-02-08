@@ -4,22 +4,22 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Baggitude Winter Sale — UP TO 30% OFF</title>
-<meta name="title" content="Baggitude Winter Sale — UP TO 30% OFF" />
-<meta name="description" content="Upto 30% discount in All Bags till January 31, 2025" />
+    <title>Baggitude Hot Discounts</title>
+<meta name="title" content="Baggitude Hot Discounts" />
+<meta name="description" content="Hot Discounts in All Bags" />
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website" />
 <!-- <meta property="og:url" content="https://metatags.io/" /> -->
-<meta property="og:title" content="Baggitude Winter Sale — UP TO 30% OFF" />
-<meta property="og:description" content="Upto 30% discount in All Bags till January 31, 2025" />
+<meta property="og:title" content="Baggitude Hot Discounts" />
+<meta property="og:description" content="Hot discount in All Bags" />
 <meta property="og:image" content="https://rahimuj570.github.io/baggitude_sales/assets/img/meta.jpg" />
 
 <!-- Twitter -->
 <!-- <meta property="twitter:card" content="summary_large_image" /> -->
 <!-- <meta property="twitter:url" content="https://metatags.io/" /> -->
-<meta property="twitter:title" content="Baggitude Winter Sale — UP TO 30% OFF" />
-<meta property="twitter:description" content="Upto 30% discount in All Bags till January 31, 2025" />
+<meta property="twitter:title" content="Baggitude Hot Discounts" />
+<meta property="twitter:description" content="Hot discount in All Bags" />
 <meta property="twitter:image" content="https://rahimuj570.github.io/baggitude_sales/assets/img/meta.jpg" />
 
     
@@ -121,55 +121,7 @@
     <!--=============== MAIN ===============-->
     <main class="main">
       <!--=============== HOME ===============-->
-      <section class="home section--lg">
-        <div class="home__container container grid">
-          <div class="home__content">
-            <span class="home__subtitle">Winter Sales</span>
-            <h1 class="home__title">
-              Fashion Trending <span>Great Collection</span>
-            </h1>
-            <p class="home__description">
-              Save more with up tp 30% off
-            </p>
-            <!-- <a href="shop.html" class="btn">Shop Now</a> -->
-          </div>
-          <div class="deals__item">
-            <div class="deals__group">
-              <h3 class="deals__brand">Winter Offers!</h3>
-              <span class="deals__category">in every products</span>
-            </div>
-            <h4 class="deals__title">Try Something new in this winter</h4>
-            <div class="deals__price flex">
-              <span class="old__price">UP TO</span>
-              <span class="new__price">30%</span>
-            </div>
-            <div class="deals__group">
-              <p class="deals__countdown-text">Hurry Up! Offer Ends In:</p>
-              <div class="countdown">
-                <div class="countdown__amount">
-                  <p id="days" class="countdown__period">02</p>
-                  <span class="unit">Days</span>
-                </div>
-                <div class="countdown__amount">
-                  <p id="hours" class="countdown__period">22</p>
-                  <span class="unit">Hours</span>
-                </div>
-                <div class="countdown__amount">
-                  <p id="minutes" class="countdown__period">57</p>
-                  <span class="unit">Mins</span>
-                </div>
-                <div class="countdown__amount">
-                  <p id="seconds" class="countdown__period">28</p>
-                  <span class="unit">Sec</span>
-                </div>
-              </div>
-            </div>
-            <div class="deals__btn">
-              <a href="#see_products" class="btn btn--md">See Products</a>
-            </div>
-          </div>
-        </div>
-      </section>
+
 
       <!--=============== CATEGORIES ===============-->
       <!-- <section class="categories container section">
@@ -1052,7 +1004,7 @@
 
 
 <script>
-  fetch('data.json')
+  fetch('data_normal.json')
   .then (response=>response.json())
   .then(result=>{
     
@@ -1102,39 +1054,6 @@
 
 })
 
-
-var countDownDate = new Date("Feb 05, 2025 23:59:59").getTime();
-
-var x = setInterval(function() {
-
-// Get today's date and time
-var now = new Date().getTime();
-
-// Find the distance between now and the count down date
-var distance = countDownDate - now;
-
-// Time calculations for days, hours, minutes and seconds
-var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-// Display the result in the element with id="demo"
-document.getElementById("days").innerHTML = days;
-document.getElementById("hours").innerHTML = hours;
-document.getElementById("minutes").innerHTML = minutes;
-document.getElementById("seconds").innerHTML = seconds;
-
-
-// If the count down is finished, write some text
-if (distance < 0) {
-  clearInterval(x);
-  document.getElementById("days").innerHTML = '0';
-document.getElementById("hours").innerHTML = '0';
-document.getElementById("minutes").innerHTML = '0';
-document.getElementById("seconds").innerHTML = '0';
-}
-}, 1000);
 
 </script>
 

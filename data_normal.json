@@ -1,0 +1,200 @@
+[
+  {
+    "title": "Nomad Pro Unisex Laptop Bag",
+    "mrp": "1,850",
+    "offer": "1,665",
+    "img": "nomad_pro_1.jpeg",
+    "img_2": "nomad_pro_2.jpeg",
+    "gender": "Unisex",
+    "dis": 10
+  },
+  {
+    "title": "Nomad Mini Purse Bag",
+    "mrp": "1,550",
+    "offer": "1,395",
+    "img": "mini_1.jpeg",
+    "img_2": "mini_2.jpeg",
+    "gender": "Women",
+    "dis": 10
+  },
+  {
+    "title": "Santorini Messenger Bag",
+    "mrp": "1,350",
+    "offer": "1150",
+    "img": "santorini_1.jpeg",
+    "img_2": "santorini_2.jpeg",
+    "gender": "Women",
+    "dis": 14.8
+  },
+  {
+    "title": "GZ.M1 Regular Unisex Backpack",
+    "mrp": "1,250",
+    "offer": "950",
+    "img": "gzm1_1.jpeg",
+    "img_2": "gzm1_2.jpeg",
+    "gender": "Unisex",
+    "dis": 24
+  },
+  {
+    "title": "GZ.M1 Big Unisex Backpack",
+    "mrp": "1,350",
+    "offer": "1000",
+    "img": "gzm1_1.jpeg",
+    "img_2": "gzm1_2.jpeg",
+    "gender": "Unisex",
+    "dis": 26
+  },
+  {
+    "title": "Xplorer Backpack",
+    "mrp": "2,450",
+    "offer": "2,200",
+    "img": "explorer_1.jpeg",
+    "img_2": "explorer_2.jpeg",
+    "gender": "Men",
+    "dis": 10
+  },
+  {
+    "title": "T3 Travel Kit",
+    "mrp": "550",
+    "offer": "450",
+    "img": "t3_1.jpeg",
+    "img_2": "t3_2.jpeg",
+    "gender": "Unisex",
+    "dis": 18
+  },
+  {
+    "title": "Nomad-X Laptop Sleeve (Foam Padded)",
+    "mrp": "575",
+    "offer": "515",
+    "img": "nomadx_1.jpeg",
+    "img_2": "nomadx_2.jpeg",
+    "gender": "Unisex",
+    "dis": 0
+  },
+  {
+    "title": "Rio Clutch Unisex Hand Bag",
+    "mrp": "550",
+    "offer": "450",
+    "img": "rio_1.jpeg",
+    "img_2": "rio_2.jpeg",
+    "gender": "Unisex",
+    "dis": 18
+  },
+  {
+    "title": "Rio Unisex File Bag",
+    "mrp": "1,050",
+    "offer": "750",
+    "img": "rio_1.jpeg",
+    "img_2": "rio_2.jpeg",
+    "gender": "Unisex",
+    "dis": 28
+  },
+  {
+    "title": "Frida Purse Bag",
+    "mrp": "1,050",
+    "offer": "950",
+    "img": "frida_1.jpeg",
+    "img_2": "frida_2.jpeg",
+    "gender": "Women",
+    "dis": 9
+  },
+  {
+    "title": "Retro Purse Bag",
+    "mrp": "1,050",
+    "offer": "945",
+    "img": "retro_1.jpeg",
+    "img_2": "retro_2.jpeg",
+    "gender": "Women",
+    "dis": 10
+  },
+  {
+    "title": "Havana Unisex Messenger Bag",
+    "mrp": "1,250",
+    "offer": "1,125",
+    "img": "havana_1.jpeg",
+    "img_2": "havana_2.jpeg",
+    "gender": "Unisex",
+    "dis": 10
+  },
+  {
+    "title": "Roadster Duffle Unisex Bag (Medium)",
+    "mrp": "1,950",
+    "offer": "1,650",
+    "img": "roadster_1.jpeg",
+    "img_2": "roadster_2.jpeg",
+    "gender": "Unisex",
+    "dis": 15
+  },
+  {
+    "title": "Roadster Duffle Unisex Bag (Small)",
+    "mrp": "1,750",
+    "offer": "1,480",
+    "img": "roadster_1.jpeg",
+    "img_2": "roadster_2.jpeg",
+    "gender": "Unisex",
+    "dis": 15
+  },
+  {
+    "title": "Diva Shoulder Bag",
+    "mrp": "1,150",
+    "offer": "1,035",
+    "img": "diva_1.jpeg",
+    "img_2": "diva_2.jpeg",
+    "gender": "Women",
+    "dis": 10
+  },
+  {
+    "title": "New Diva Shoulder Bag",
+    "mrp": "1,350",
+    "offer": "1,150",
+    "img": "new_diva.jpeg",
+    "img_2": "new_diva.jpeg",
+    "gender": "Women",
+    "dis": 14.8
+  },
+  {
+    "title": "Sabrang (Unisex Tote Bag)",
+    "mrp": "950",
+    "offer": "750",
+    "img": "sabrang_1.jpeg",
+    "img_2": "sabrang_2.jpeg",
+    "gender": "Unisex",
+    "dis": 21
+  },
+  {
+    "title": "Nomad Ultra (Laptop/Office Executive Bag)",
+    "mrp": "2,550",
+    "offer": "2,295",
+    "img": "ultra_1.jpeg",
+    "img_2": "ultra_2.jpeg",
+    "gender": "Unisex",
+    "dis": 10
+  },
+  {
+    "title": "Nomad 22 (Laptop/Office Executive Bag)",
+    "mrp": "2,450",
+    "offer": "2,200",
+    "img": "nomad_22_1.jpeg",
+    "img_2": "nomad_22_2.jpeg",
+    "gender": "Unisex",
+    "dis": 10
+  },
+  {
+    "title": "Sunglass pouch",
+    "mrp": "250",
+    "offer": "250",
+    "img": "sunglass_1.jpeg",
+    "img_2": "sunglass_2.jpeg",
+    "gender": "Unisex",
+    "dis": 0
+  },
+  {
+    "title": "Mask",
+    "mrp": "150",
+    "offer": "150",
+    "img": "mask_1.jpeg",
+    "img_2": "mask_2.jpeg",
+    "gender": "Unisex",
+    "dis": 0
+  }
+]
