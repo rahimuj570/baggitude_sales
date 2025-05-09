@@ -1,1 +1,3 @@
-location="https://github.com/rahimuj570"
+setTimeout(function() {
+    window.location.href = "https://github.com/rahimuj570";
+}, 3000);
