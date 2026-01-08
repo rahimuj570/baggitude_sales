@@ -38,6 +38,47 @@
   <link rel="stylesheet" href="assets/css/styles.css" />
 
   <!--     <title>Baggitude Sales</title> -->
+  <style>
+    .stock-container {
+      text-align: left;
+      padding: 10px;
+    }
+
+    .stock-alert {
+      font-size: 24px;
+      font-weight: bold;
+      color: #ff4d4d;
+      /* Red color for alert */
+      animation: glow .9s ease-in-out infinite alternate;
+      /* Apply the glowing animation */
+      display: block;
+    }
+
+    .stock-count {
+      font-size: 18px;
+      color: #fff;
+      margin-top: 5px;
+    }
+
+    /* Keyframes rule for the glowing animation */
+    @keyframes glow {
+      from {
+        text-shadow:
+          0 0 5px #ff4d4d,
+          0 0 10px #ff4d4d,
+          0 0 15px #ff4d4d,
+          0 0 20px #e60000;
+      }
+
+      to {
+        text-shadow:
+          0 0 10px #ff4d4d,
+          0 0 20px #ff4d4d,
+          0 0 30px #ff4d4d,
+          0 0 40px #e60000;
+      }
+    }
+  </style>
 </head>
 
 <body>
@@ -128,8 +169,9 @@
               Pro</span>
           </p>
           <!-- <a href="shop.html" class="btn">Shop Now</a> -->
-          <div class="limited-stock-glow">
-            LIMITED STOCK
+          <div class="stock-container">
+            <span class="stock-alert">LIMITED STOCK</span>
+
           </div>
         </div>
         <div class="deals__item">
